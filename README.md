@@ -10,7 +10,7 @@
   - **Gestión de dependencias**: Gradle.
   - **BDD**: Cucumber.
   - **Patron de diseño implementado**: Screenplay.
-  - **LOGS**: SLF4J.
+  - **LOGS**.
 
 
 ## Estructura del Proyecto: **Screenplay**  
@@ -53,7 +53,6 @@ src
 ## Reutilización de Código ✅  *Al usar el patron de diseño Screenplay*
 
 ## Manejo de LOGS y Reportes 
-  - **Se utiliza SLF4J + logback**.
   - **Se generan los reportes usando: gradlew clean test aggregate**. (Recordar que al ser multiplataforma se debe enviar el -Denviroment explicando en puntos anteriores).
 
 ## Manejo y Control de Dependencias y ejeción de los test
