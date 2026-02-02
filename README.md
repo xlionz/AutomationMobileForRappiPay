@@ -59,4 +59,6 @@ src
 ## Manejo y Control de Dependencias y ejeción de los test
   - **Se utiliza Gradle para: Controlar versiones, ejecución de pruebas, integra reportes**
 
+## Aplicación Automatizada: Kayte APP https://play.google.com/store/apps/details?id=com.kyte&hl=es
+
         
