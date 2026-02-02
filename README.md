@@ -4,7 +4,7 @@
    Se explicara a detalle cómo se compone el frame de esta automatizacion. Su lenguaje de desarrollo, arquitectura, dependencias y ejecución.
 
 ## Tecnologías y Herramientas Que Se Usaron 
-  - **Lenguaje**: Java 11+.
+  - **Lenguaje**: Java 17.
   - **Framework de Testing**: JUnit.
   - **Automatización mobile**: Appium.
   - **Gestión de dependencias**: Gradle.
@@ -57,6 +57,7 @@ src
 
 ## Manejo y Control de Dependencias y ejeción de los test
   - **Se utiliza Gradle para: Controlar versiones, ejecución de pruebas, integra reportes**
+  - **Serenity Version: 4.1.3, selenium-java: 4.18.1, gradle 8.14.4 variables de entorno, java: 17
 
 ## Aplicación Automatizada: Kayte APP https://play.google.com/store/apps/details?id=com.kyte&hl=es
 
