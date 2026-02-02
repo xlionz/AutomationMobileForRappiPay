@@ -44,7 +44,7 @@ src
     │
     └── resources
         ├── features
-        └── serenity.conf
+        └── serenity.conf (Capabilities para configurar los sistemas operativos donde se harán las pruebas)
 ```
 
 ## Implementación para Diferentes Dispositivos Android/iOs 
